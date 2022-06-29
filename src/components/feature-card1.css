@@ -1,0 +1,47 @@
+.feature-card1-feature-card {
+  width: 236px;
+  height: 118px;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: flex-start;
+  border-color: #6ee8fc;
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #050941;
+}
+.feature-card1-feature-card:hover {
+  transform: scale(1.02);
+}
+.feature-card1-text {
+  color: #ffffff;
+  font-size: 2rem;
+  align-self: center;
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 4PX;
+}
+.feature-card1-text1 {
+  color: #ffffff;
+  font-size: 0.7rem;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 7PX;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
