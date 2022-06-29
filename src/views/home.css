@@ -194,7 +194,7 @@
 }
 .home-container04 {
   flex: 0 0 auto;
-  width: auto;
+  width: 1317px;
   height: 596px;
   display: flex;
   align-items: flex-start;
@@ -247,7 +247,7 @@
 }
 .home-container09 {
   flex: 0 0 auto;
-  width: 1129px;
+  width: 1317px;
   height: 596px;
   display: flex;
   align-items: flex-start;
@@ -278,7 +278,7 @@
   flex-direction: column;
 }
 .home-hero1 {
-  width: 100%;
+  width: 1332px;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: var(--dl-size-size-maxwidth);
